@@ -42,12 +42,11 @@ local variants = {
 	-- 	none = "NONE",
 	-- },
 	moon = {
-		---@deprecated for backwards compatibility
-		_experimental_nc = "#1f1d30",
-		nc = "#1f1d30",
-		base = "#232136",
-		surface = "#303030",
-		overlay = "#393552",
+		_experimental_nc = "#1c1c1c",
+		nc = "#1c1c1c",
+		base = "#1c1c1c",
+		surface = "#262626",
+		overlay = "#303030",
 		muted = "#5f5f87",
 		subtle = "#8787af",
 		text = "#d7d7ff",
