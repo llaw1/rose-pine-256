@@ -56,9 +56,9 @@ local variants = {
 		pine = "#5F87AF",
 		foam = "#9ccfd8",
 		iris = "#c4a7e7",
-		highlight_low = "#2a283e",
-		highlight_med = "#44415a",
-		highlight_high = "#56526e",
+		highlight_low = "#262626",
+		highlight_med = "#444444",
+		highlight_high = "#585858",
 		none = "NONE",
 	},
 	dawn = {
